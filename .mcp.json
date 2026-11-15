@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mangabaaz": {
+      "type": "http",
+      "url": "https://mangabaaz.vercel.app/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mangabaaz",
+  "version": "0.1.0",
+  "description": "Connect an invited Instagram professional account and publish images, carousels, Reels and Stories without copying an API key.",
+  "homepage": "https://mangabaaz.vercel.app",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "MangaBaaz Instagram Publisher",
+        "shortDescription": "Connect Instagram and publish without API keys.",
+        "developerName": "MangaBaaz",
+        "category": "Productivity",
+        "capabilities": ["Read", "Write"],
+        "websiteURL": "https://mangabaaz.vercel.app",
+        "privacyPolicyURL": "https://mangabaaz.vercel.app/privacy",
+        "defaultPrompt": ["Show my connected Instagram accounts."],
+        "composerIcon": "./assets/logo.png",
+        "logo": "./assets/logo.png"
+      }
+    }
+  }
+}

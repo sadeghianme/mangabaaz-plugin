@@ -1,0 +1,13 @@
+{
+  "name": "mangabaaz",
+  "displayName": "MangaBaaz Instagram Publisher",
+  "version": "0.1.0",
+  "description": "Connect an invited Instagram professional account and publish images, carousels, Reels and Stories from your AI app without copying an API key.",
+  "author": { "name": "MangaBaaz", "url": "https://mangabaaz.vercel.app" },
+  "homepage": "https://mangabaaz.vercel.app",
+  "license": "MIT",
+  "keywords": ["instagram", "publishing", "reels", "social-media", "mcp"],
+  "icon": "./assets/logo.png",
+  "privacyPolicyUrl": "https://mangabaaz.vercel.app/privacy",
+  "documentationUrl": "https://mangabaaz.vercel.app/setup"
+}

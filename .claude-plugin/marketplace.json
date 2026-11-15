@@ -1,0 +1,12 @@
+{
+  "name": "mangabaaz",
+  "description": "Publish to Instagram from your AI app through the MangaBaaz MCP server.",
+  "owner":{ "name": "MangaBaaz", "url": "https://mangabaaz.vercel.app" },
+  "plugins": [
+    {
+      "name": "mangabaaz",
+      "source": "./",
+      "description": "Connect an invited Instagram professional account and publish images, carousels, Reels and Stories from your AI app without copying an API key."
+    }
+  ]
+}
